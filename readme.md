@@ -30,7 +30,7 @@ password: **password**
 ### Изменения в Laravel.
 
 ##### bootstrap/app.php
-Для профилирования загрузки сервис профайдеров в `bootstrap/app.php` изменен Application на `\KodiCMS\CMS\Application`, 
+Для профилирования загрузки сервис провайдеров в `bootstrap/app.php` изменен Application на `\KodiCMS\CMS\Application`, 
 данное изменение можно не вносить.
 
 ##### app/Http/Kernel.php
